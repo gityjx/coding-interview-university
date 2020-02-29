@@ -10,8 +10,6 @@
 >
 > *Best of luck to you!*
 
--------------------------
-
 Translations:
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
